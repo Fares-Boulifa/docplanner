@@ -1,0 +1,137 @@
+body {
+    font-family: sans-serif;
+    align-items: center;
+    display: block; 
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.introductio-title{
+    text-align: center;
+    color: #00ccb1;
+
+}
+.introduction_text{
+    display: flex;
+    padding: 35px;
+}
+.content_services{
+    display: flex;
+    padding: 30 0px;
+    font-family: Arial, sans-serif;
+}
+.service_card_for_patients{
+line-height: 1.2;
+    background-color: #00ccb1;
+    color: #ffffff;
+    border-radius: 7px;
+    margin: 10px;    
+}
+.service_card_for_doctors{
+    line-height: 1.2;
+    background-color: #3d83df;
+    color: #ffffff;
+    border-radius: 7px;
+    margin: 10px;
+}
+.service_card_for_clinics{
+    line-height: 1.2;
+    background-color: #1b2734;
+    color: #ffffff;
+    border-radius: 7px;
+    margin: 10px;
+}
+.introdution_log_img{
+    width: 50px;
+    height: 50px;
+    background-color: #00ccb1;
+}
+.introduction_site_top{
+    text-decoration: none;
+}
+.introduction_logo{
+display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+.introduction_text_left{
+    padding: 10px;
+    margin: 10px;
+}
+.introduction_text_right{
+    padding: 10px;
+    margin: 10px;   
+}
+.small-image {
+    width: 100px;
+    height: auto;
+}
+.service_card_for{
+    padding: 1.375em 1.25em 0;
+}
+.service_card_content_text_patients{
+    padding: px;
+}
+.service_card_patient_isolated_part{
+    display: block;
+    unicode-bidi: isolate;  
+}
+.service_card_for_patients{
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Country_Patient{
+    padding-top: 100px;
+}
+.Country_Doctor{
+    padding-top: 100px;
+}
+.service_card_for_doctors{
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.service_card_for_clinics{
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.footer_brand_logo{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+.footer_brand_logo{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+.footer_text{
+    color: #00ccb1;
+}
+
